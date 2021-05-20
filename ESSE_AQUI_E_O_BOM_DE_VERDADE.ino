@@ -46,7 +46,7 @@ int uau;
 
 void(* resetFunc) (void) = 0;
 void setup() {
-  // put your setup code here, to run once:
+  // put your setup code here, to run once: bom dia
   for (int ledagr2 = 0; ledagr2 < qntpinV; ledagr2++) {
     digitalWrite(matrizV[ledagr2], LOW);
   }
