@@ -1,3 +1,5 @@
+## DISCLAIMER
+  - Este trabalho foi o nosso primeiro trabalho grande de programação e NÃO foi feita de maneira profissinal, não seguindo nenhuma convenção de boas práticas, por tanto, o código deste trabalho deve apenas ser visto como exemplo de coisas que não se devem repetir e também para mostrar a evolução de um dos primeiros trabalhos de programação feito até o dia de hoje, mesmo assim, este projeto é de grande orgulho aos envolvidos, então eu deixarei aqui para ser visto publicamente...
 
 
 <img src="https://github.com/Knightleo602/Guitarino/blob/main/guitarino%20logo.png" height="300px" width="300px">
